@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664157553719",
+    "firebase_url": "https://vmessage-58248-default-rtdb.firebaseio.com",
+    "project_id": "vmessage-58248",
+    "storage_bucket": "vmessage-58248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664157553719:android:1dcf079b9feb84a447abb2",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664157553719-is311jikl8r3hid03ksfk86a5leu06ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtarfwgzgopJFu45e7S7BIhDchdXb73M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664157553719-is311jikl8r3hid03ksfk86a5leu06ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
